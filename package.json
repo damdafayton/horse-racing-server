@@ -1,6 +1,6 @@
 {
   "name": "streaming-prices",
-  "version": "1.0.0",
+  "version": "14.x",
   "description": "Push JSON prices in real-time over websockets",
   "main": "server.js",
   "dependencies": {
